@@ -1,0 +1,8 @@
+USAGE: python app.py
+Python-based Yamslam game engine using Pygame as GUI
+
+References:
+Segment 1: yamslam.py lines 36-53
+Segment 2: yamslam_gui.py line 95-96
+Segment 3: pattern.py lines 148-154
+Segment 4: pattern.py lines 124-130
